@@ -1,0 +1,30 @@
+dir => bulundugun path in icindeki dosyalari veya filelari listeler
+cd bosluk birakip gidecegin folder adini yazip enter yaparsan path degisir
+mkdir <dosya-adi> dosya olusturur
+
+
+
+//////// github ////////////
+git add . yaparsan ve ornegin 15 tane file varsa hepsini ekler ve ekleyecegin commit 15 i icin gecerli olur
+
+github repository initializing bittikten sonra;
+
+ornegin bir file icinde degisiklik yaptin
+
+nasil commit atarim?
+- git add . veya <file_name>
+- git commit -m "yazacagin commit"
+- git push origin <branch_name>(in generally main)
+
+/////////////////
+
+git status:
+
+git status yaptiktan sonra folder veya file icinde yapilan latest changesleri algilar ve commitlemek isteyecegin
+file veya folder varsa ona gore secim yapmani kolaylastirir vs vs
+
+git diff yazdiginda neleri degishtirdigini goruyorsun.
+q-quit
+
+svg-de quality oldugu kimi qalir
+ 	
